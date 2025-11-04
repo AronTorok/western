@@ -33,6 +33,10 @@ h6 {
   font-style: normal;
 }
 
+a {
+  color: brown;
+}
+
 .paper {
   background-image: url("old_paper.jpg");
 }
